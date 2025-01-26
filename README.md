@@ -32,8 +32,8 @@ Ensure you have these libraries installed before running the code.
    ```bash
    pip install -r requirements.txt
 3. Run the notebook or script:
-  - Launch Jupyter Notebook and open notebook.ipynb.
-  - Follow the step-by-step instructions within the notebook to load your image, apply       K-Means clustering, and visualize the results.
+     - Launch Jupyter Notebook and open notebook.ipynb.
+     - Follow the step-by-step instructions within the notebook to load your image, apply       K-Means clustering, and visualize the results.
 
 ## Example
 For an input image of size 500x500 pixels with K=16, the output achieves significant compression while maintaining image quality.
